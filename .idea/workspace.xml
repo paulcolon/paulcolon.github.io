@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3fce1f4-41c1-423a-81a7-85085f69ebc3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jams.html" afterPath="$PROJECT_DIR$/Jams.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bands-contact.html" afterPath="$PROJECT_DIR$/bands-contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/festivals.html" afterPath="$PROJECT_DIR$/festivals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnmandolin.html" afterPath="$PROJECT_DIR$/learnmandolin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="56" column="18" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="416">
+              <caret line="166" column="21" lean-forward="false" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calander App.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calander App.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calander App.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -77,7 +73,7 @@
       <file leaf-file-name="bands-contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bands-contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="825">
               <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
               <folding />
             </state>
@@ -87,7 +83,7 @@
       <file leaf-file-name="Jams.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jams.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="825">
               <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
               <folding />
             </state>
@@ -97,7 +93,7 @@
       <file leaf-file-name="festivals.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/festivals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="825">
               <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
               <folding />
             </state>
@@ -107,8 +103,8 @@
       <file leaf-file-name="learnmandolin.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnmandolin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="55" column="25" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
+            <state relative-caret-position="825">
+              <caret line="55" column="25" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -131,11 +127,11 @@
       <list>
         <option value="$PROJECT_DIR$/carousel.css" />
         <option value="$PROJECT_DIR$/Calander App.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/learnmandolin.html" />
         <option value="$PROJECT_DIR$/Jams.html" />
         <option value="$PROJECT_DIR$/bands-contact.html" />
         <option value="$PROJECT_DIR$/festivals.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -164,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,7 +176,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,12 +285,16 @@
       <workItem from="1520236682700" duration="5474000" />
       <workItem from="1520300188111" duration="87000" />
       <workItem from="1520304789856" duration="1119000" />
-      <workItem from="1520566012463" duration="6723000" />
+      <workItem from="1520566012463" duration="8076000" />
+      <workItem from="1521133341325" duration="170000" />
+      <workItem from="1521756688043" duration="71000" />
+      <workItem from="1534295186061" duration="225000" />
+      <workItem from="1534297875363" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27523000" />
+    <option name="totallyTimeSpent" value="29376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,6 +674,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="166" column="21" lean-forward="false" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calander App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/ie10-viewport-bug-workaround.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -690,41 +714,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/carousel.css">
+    <entry file="file://$PROJECT_DIR$/bands-contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="56" column="18" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnmandolin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="55" column="25" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
+        <state relative-caret-position="825">
+          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jams.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bands-contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="825">
           <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
           <folding />
         </state>
@@ -732,16 +732,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/festivals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="825">
           <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calander App.html">
+    <entry file="file://$PROJECT_DIR$/learnmandolin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="825">
+          <caret line="55" column="25" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="55" selection-end-column="25" />
           <folding />
         </state>
       </provider>
